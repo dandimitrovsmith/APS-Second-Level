@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <menu widescreen="true" language="es" dateformat="DMY24">
+  <item widescreen="true" icon="hospital" link="../Projects/APSChile/Module/APSAdmitting.xml" roles="MedWave,Admitting,SysAdmin">Admisión</item>
+  <item widescreen="false" icon="hospital" link="../Projects/APSChile/Module/Charting.xml" roles="MedWave,Admitting,SysAdmin">Charting</item>
+  <item widescreen="true" icon="hospital" link="../Projects/APSChile/Module/APSPatientPortal.xml" roles="MedWave">Portal del Paciente</item>
+  <item icon="double-angle-right" title="Médico">
+    <item widescreen="true" icon="user-md" link="../Projects/APSChile/Module/APSClinicDoctor.xml" roles="MedWave,Physician,SysAdmin">Médico Policlínico</item>
+    <item widescreen="true" icon="user-md" link="../Projects/APSChile/Module/APSTelemedicineDoctor.xml" roles="MedWave,Physician,SysAdmin">Médico Telemedicina</item>
+  </item> 
+   <item icon="double-angle-right" title="Enfermería"> 
+    <item widescreen="true" icon="stethoscope" link="../Projects/APSChile/Module/APSClinicNursing.xml" roles="MedWave,Nurse,SysAdmin">Enfermería Policlínico</item>
+  </item>
+  <item icon="double-angle-right" title="Emergencia">
+    <item widescreen="true" icon="ambulance" link="../Projects/ChileanHealthMinistry/Module/EmergencyAdmitting.xml" roles="MedWave,Admitting,SysAdmin">Admisión Emergencia</item>
+    <item widescreen="true" icon="stethoscope" link="../Projects/ChileanHealthMinistry/Module/EmergencyNursing.xml" roles="MedWave,Nurse,NurseSupervisor,SysAdmin">Enfermería Emergencia</item>
+    <item widescreen="true" icon="user-md" link="../Projects/ChileanHealthMinistry/Module/EmergencyDoctor.xml" roles="MedWave,Physician,SysAdmin">Médico Emergencia</item>
+  </item>
+  <item icon="double-angle-right" title="Especialidades">
+    <item widescreen="true" icon="user-md" link="../Projects/APSChile/Module/APSClinicDentist.xml" roles="MedWave,Dentist,SysAdmin">Consulta Dental</item>
+    <item widescreen="true" icon="female" link="../Projects/APSChile/Module/APSClinicMidwife.xml" roles="MedWave,Midwife,SysAdmin">Matrona</item>
+    <item widescreen="true" icon="group" link="../Projects/APSChile/Module/APSClinicPsychologist.xml" roles="MedWave,Psychologist,SysAdmin">Psicólogo</item>
+    <item widescreen="true" icon="group" link="../Projects/APSChile/Module/APSClinicSocialWorker.xml" roles="MedWave,Social Worker,SysAdmin">Asistente Social</item>
+    <item widescreen="true" icon="user-md" link="../Projects/APSChile/Module/APSClinicKinesiology.xml" roles="MedWave,Dentist,SysAdmin">Consulta Kinesiólogo</item>
+  </item>
+  <item icon="double-angle-right" title="Estudios">
+    <item widescreen="true" icon="camera" link="../Projects/APSChile/Module/APSImaging.xml" roles="MedWave,Imaging,SysAdmin">Imagenología</item>
+    <item widescreen="true" icon="beaker" link="../Projects/APSChile/Module/APSLaboratory.xml" roles="MedWave,Laboratory,SysAdmin">Laboratorio</item>
+    <item widescreen="true" icon="archive" link="../Projects/APSChile/Module/APSMedicalRecords.xml" roles="MedWave,Administration,SysAdmin">Archivos Clínicos</item>
+  </item>
+  <item icon="double-angle-right" title="Vacunatorio">
+    <item widescreen="true" icon="stethoscope" link="../Projects/APSChile/Module/APSVaccination.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Vacunatorio</item>
+    <item widescreen="true" icon="shopping-cart" link="../Projects/APSChile/Module/APSVaccineOrdering.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Ordenar Vacunas</item>
+    <item widescreen="true" icon="truck" link="../Projects/APSChile/Module/APSVaccineReceiving.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Recibir Vacunas</item>
+    <item widescreen="true" icon="check" link="../Projects/APSChile/Module/APSVaccineCountStock.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Conteo de Vacunas</item>
+    <item widescreen="true" icon="beaker" link="../Projects/APSChile/Module/APSPharmacyVaccines.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Gestión de Vacunas</item>
+    <item widescreen="true" icon="gears" link="../Projects/APSChile/Module/APSRefrigerationEquipment.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Gestión de Equipo</item>
+  </item>
+  <item icon="double-angle-right" title="Nutrición">
+   <item widescreen="true" icon="stethoscope" link="../Projects/APSChile/Module/APSNutrition.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Consulta de Nutrición</item>
+   <item widescreen="true" icon="hospital" link="../Projects/APSChile/Module/APSNutritionDelivery.xml" roles="MedWave,Admitting,SysAdmin">Entrega de Alimentos</item>
+   <item widescreen="true" icon="barcode" link="../Projects/APSChile/Module/APSNutritionProducts.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Productos Nutricionales</item>
+   <item widescreen="true" icon="shopping-cart" link="../Projects/APSChile/Module/APSNutritionOrdering.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Órdenes Nutricionales</item>
+   <item widescreen="true" icon="truck" link="../Projects/APSChile/Module/APSNutritionReceiving.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Recibir Nutricionales</item>
+  <item widescreen="true" icon="check" link="../Projects/APSChile/Module/APSNutritionCountStock.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Cuenta Nutricionales</item>
+  </item>
+  <item icon="double-angle-right" title="Farmacia">
+    <item widescreen="true" icon="medkit" link="../Projects/PharmacySpanish/Module/EsPharmacyMeds.xml">Medicamentos de Farmacia</item>
+    <item widescreen="false" icon="medkit" link="../Projects/PharmacySpanish/Module/EsPharmacyDispense.xml">Medicamentos Pendientes</item>
+    <item widescreen="true" icon="medkit" link="../Projects/PharmacySpanish/Module/ESPharmacyStock.xml">Stock de Farmacia</item>
+    <item widescreen="true" icon="medkit" link="../Projects/PharmacySpanish/Module/EsPharmacyVendors.xml">Proveedores de Farmacia</item>
+    <item widescreen="true" icon="medkit" link="../Projects/PharmacySpanish/Module/EsPharmacyPurchasing.xml">Órdenes de Compra Farmacia</item>
+    <item widescreen="true" icon="medkit" link="../Projects/PharmacySpanish/Module/EsPharmacyReceiving.xml">Recibir Compras Farmacia</item>
+    <item widescreen="true" icon="medkit" link="../Projects/PharmacySpanish/Module/EsPharmacyCountStock.xml">Cuenta de Inventario Farmacia</item>
+  </item>
+  <item icon="double-angle-right" title="Administración">
+    <item widescreen="true" icon="calendar" link="../Projects/APSChile/Module/APSConsultRequestsAdmin.xml" roles="MedWave,SysAdmin">Gestión de Interconsultas</item>
+    <item widescreen="true" icon="calendar" link="../Projects/APSChile/Module/APSCalendarManagement.xml" roles="MedWave,SysAdmin">Programar Agendas</item>
+    <item widescreen="true" icon="file-text" link="../Projects/APSChile/Module/APSUserManagement.xml" roles="MedWave,SysAdmin">Gestión de Usuarios</item>
+    <item widescreen="true" icon="print" link="../Projects/APSChile/Module/APSAdminReports.xml" roles="MedWave,SysAdmin">Informes</item>
+    <item widescreen="true" icon="print" link="../Projects/FacilitySetupSpanishHIS/Module/EsReportSetup.xml" roles="MedWave,SysAdmin">Gestión de Informes</item>
+    <item widescreen="true" icon="print" link="../Projects/FacilitySetupSpanishHIS/Module/EsCloneReportSetup.xml" roles="MedWave">Informes de Clonación</item>  
+  </item>
+  <item widescreen="true" icon="double-angle-right" title="Compras">
+    <item widescreen="true" icon="shopping-cart" link="../Projects/APSChile/Module/APSPurchasingManager.xml" roles="MedWave,SysAdmin,Manager">Jefe de Compras</item>
+    <item widescreen="true" icon="shopping-cart" link="../Projects/APSChile/Module/APSPurchaseOrders.xml" roles="MedWave,SysAdmin,Administrative Manager">Compras</item>
+    <item widescreen="true" icon="shopping-cart" link="../Projects/ERPSpanish/Module/ESRequisitionsNoPatients.xml" roles="MedWave,SysAdmin">Requisiciones de Compra</item>
+    <item widescreen="true" icon="shopping-cart" link="../Projects/APSChile/Module/APSWarehouseManager.xml" roles="MedWave,SysAdmin,Administrative Manager,Manager">Almacenista</item>
+    <item widescreen="true" icon="shopping-cart" link="../Projects/APSChile/Module/APSSubWarehouseManager.xml" roles="MedWave">Subalmacenista</item>
+    <item widescreen="true" icon="shopping-cart" link="../Projects/ERPSpanish/Module/ESStockRequests.xml" roles="MedWave,SysAdmin">Requisiciones de Stock</item>
+    <item widescreen="true" icon="shopping-cart" link="../Projects/ERPSpanish/Module/ESPatientStockReturns.xml" roles="MedWave,SysAdmin">Devoluciones de Stock</item>
+    <item widescreen="true" icon="check" link="../Projects/ERPSpanish/Module/ESCountStockLocations.xml" roles="MedWave,SysAdmin,Administrative Manager,Manager">Contar Inventario</item>
+    <item widescreen="true" icon="check" link="../Projects/APSChile/Module/APSPayableInvoices.xml" roles="MedWave,Accounts Payable,Financial">Cuentas por Pagar</item>
+    <item widescreen="true" icon="check" link="../Projects/ERPSpanish/Module/ESVendors.xml" roles="MedWave,Accounts Payable,Purchasing,Purchasing Manager,Financial">Proveedores</item>
+  </item>
+  <item icon="double-angle-right" title="Configuración">
+    <item widescreen="true" icon="h-sign" link="../Projects/FacilitySetupSpanishHIS/Module/EsFacilitySetup.xml" roles="MedWave,SysAdmin">Hospital</item>
+    <item widescreen="true" icon="dollar" link="../Projects/FacilitySetupSpanishHIS/Module/EsFinancialSetup.xml" roles="MedWave,SysAdmin">Finanza</item>
+    <item widescreen="true" icon="tags" link="../Projects/FacilitySetupSpanishHIS/Module/EsInventorySetup.xml" roles="MedWave,SysAdmin">Artículo Maestro</item> 
+    <item widescreen="true" icon="beaker" link="../Projects/FacilitySetupSpanishHIS/Module/EsLaboratorySetup.xml" roles="MedWave,SysAdmin">Laboratorio</item>
+    <item widescreen="true" icon="picture" link="../Projects/FacilitySetupSpanishHIS/Module/EsImagingSetup.xml" roles="MedWave,SysAdmin">Imagenología</item>
+    <item widescreen="true" icon="user-md" link="../Projects/FacilitySetupSpanishHIS/Module/EsNursingSetup.xml" roles="MedWave,SysAdmin">Enfermería</item>
+    <item widescreen="true" icon="file-text" link="../Projects/FacilitySetupSpanishHIS/Module/EsDocumentationSetup.xml" roles="MedWave,SysAdmin">Documentación</item>
+    <item widescreen="true" icon="stethoscope" link="../Projects/FacilitySetupSpanishHIS/Module/EsProcedureSetup.xml" roles="MedWave,SysAdmin">Procedimientos</item>
+    <item widescreen="true" icon="medkit" link="../Projects/FacilitySetupSpanishHIS/Module/EsMedicationSetup.xml" roles="MedWave,SysAdmin">Medicamentos</item>  
+  </item>
+  <item widescreen="true" icon="file-text" link="../Projects/APSChile/Module/UserUpdate.xml">Mi Cuenta de Usuario</item>
+</menu>
