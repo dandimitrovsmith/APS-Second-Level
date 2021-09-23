@@ -44,10 +44,10 @@
   <item widescreen="true" icon="check" link="../Projects/APSChile/Module/APSNutritionCountStock.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Cuenta Nutricionales</item>
   </item>
   <item icon="double-angle-right" title="Referencias">
-    <item widescreen="true" icon="file-text" link="../Projects/ChileanHealthMinistry/Module/ReferenceRequestsAdmin.xml" roles="MedWave,Administration,SysAdmin">Recibir y Validar Referencias</item>
-    <item widescreen="true" icon="user-md" link="../Projects/ChileanHealthMinistry/Module/ReferenceRequestsDocs.xml" roles="MedWave,Physician,SysAdmin">Auditoría Referencias Médica</item>
-    <item widescreen="true" icon="calendar" link="../Projects/ChileanHealthMinistry/Module/ReferenceRequestsSchedule.xml" roles="MedWave,Administration,SysAdmin">Programar Referencias</item>
-    <item widescreen="true" icon="file-text" link="../Projects/ChileanHealthMinistry/Module/ReferenceRequestsRejected.xml" roles="MedWave,Administration,SysAdmin">Referencias Rechazado</item>
+    <item widescreen="false" icon="file-text" link="../Projects/ChileanHealthMinistry/Module/ReferenceRequestsAdmin.xml" roles="MedWave,Administration,SysAdmin">Recibir y Validar Referencias</item>
+    <item widescreen="false" icon="user-md" link="../Projects/ChileanHealthMinistry/Module/ReferenceRequestsDocs.xml" roles="MedWave,Physician,SysAdmin">Auditoría Referencias Médica</item>
+    <item widescreen="false" icon="calendar" link="../Projects/ChileanHealthMinistry/Module/ReferenceRequestsSchedule.xml" roles="MedWave,Administration,SysAdmin">Programar Referencias</item>
+    <item widescreen="false" icon="file-text" link="../Projects/ChileanHealthMinistry/Module/ReferenceRequestsRejected.xml" roles="MedWave,Administration,SysAdmin">Referencias Rechazado</item>
   </item>
   <item icon="double-angle-right" title="Lista de Espera">
     <item widescreen="true" icon="file-text" link="../Projects/ChileanHealthMinistry/Module/ConsultRequestsAdmin.xml" roles="MedWave,Administration,SysAdmin">Recibir y Validar Lista de Espera</item>
