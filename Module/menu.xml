@@ -69,7 +69,7 @@
     <item widescreen="true" icon="calendar" link="../Projects/APSChile/Module/APSCalendarManagement.xml" roles="MedWave,SysAdmin">Programar Agendas</item>
     <item widescreen="true" icon="file-text" link="../Projects/APSChile/Module/APSUserManagement.xml" roles="MedWave,SysAdmin">Gestión de Usuarios</item>
     <item widescreen="true" icon="print" link="../Projects/APSChile/Module/APSAdminReports.xml" roles="MedWave,SysAdmin">Informes</item>
-    <item widescreen="true" icon="print" link="../Projects/FacilitySetupSpanishHIS/Module/EsReportSetup.xml" roles="MedWave,SysAdmin">Gestión de Informes</item>
+    <item widescreen="true" icon="print" link="../Projects/FacilitySetupSpanishHIS/Module/EsReportSetup.xml" roles="MedWave">Gestión de Informes</item>
     <item widescreen="true" icon="print" link="../Projects/FacilitySetupSpanishHIS/Module/EsCloneReportSetup.xml" roles="MedWave">Informes de Clonación</item>  
     <item widescreen="true" icon="print" link="../Projects/ChileanHealthMinistry/Module/SystemReports.xml" roles="MedWave,SysAdmin">Informes Sistemas</item>
   </item>
