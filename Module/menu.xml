@@ -71,6 +71,7 @@
     <item widescreen="true" icon="print" link="../Projects/APSChile/Module/APSAdminReports.xml" roles="MedWave,SysAdmin">Informes</item>
     <item widescreen="true" icon="print" link="../Projects/FacilitySetupSpanishHIS/Module/EsReportSetup.xml" roles="MedWave,SysAdmin">Gestión de Informes</item>
     <item widescreen="true" icon="print" link="../Projects/FacilitySetupSpanishHIS/Module/EsCloneReportSetup.xml" roles="MedWave">Informes de Clonación</item>  
+    <item widescreen="true" icon="print" link="../Projects/ChileanHealthMinistry/Module/SystemReports.xml" roles="MedWave,SysAdmin">Informes Sistemas</item>
   </item>
   <item widescreen="true" icon="double-angle-right" title="Compras">
     <item widescreen="true" icon="shopping-cart" link="../Projects/APSChile/Module/APSPurchasingManager.xml" roles="MedWave,SysAdmin,Manager">Jefe de Compras</item>
