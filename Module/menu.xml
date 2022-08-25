@@ -94,7 +94,7 @@
     <item widescreen="true" icon="user-md" link="../Projects/FacilitySetupSpanishHIS/Module/EsNursingSetup.xml" roles="MedWave,SysAdmin">Enfermería</item>
     <item widescreen="true" icon="file-text" link="../Projects/FacilitySetupSpanishHIS/Module/EsDocumentationSetup.xml" roles="MedWave,SysAdmin">Documentación</item>
     <item widescreen="true" icon="stethoscope" link="../Projects/FacilitySetupSpanishHIS/Module/EsProcedureSetup.xml" roles="MedWave,SysAdmin">Procedimientos</item>
-    <item widescreen="true" icon="medkit" link="../Projects/FacilitySetupSpanishHIS/Module/EsMedicationSetup.xml" roles="MedWave,SysAdmin">Medicamentos</item>  
+    <item widescreen="true" icon="medkit" link="../Projects/PharmacySpanish/Module/ESPharmacyMeds.xml" roles="MedWave,SysAdmin">Medicamentos</item>  
   </item>
   <item widescreen="true" icon="file-text" link="../Projects/APSChile/Module/UserUpdate.xml">Mi Cuenta de Usuario</item>
 </menu>
