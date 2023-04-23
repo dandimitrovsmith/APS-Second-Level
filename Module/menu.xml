@@ -25,7 +25,7 @@
   <item icon="double-angle-right" title="Estudios">
     <item widescreen="true" icon="camera" link="../Projects/APSChile/Module/APSImaging.xml" roles="MedWave,Imaging,SysAdmin">Imagenología</item>
     <item widescreen="true" icon="beaker" link="../Projects/APSChile/Module/APSLaboratory.xml" roles="MedWave,Laboratory,SysAdmin">Laboratorio</item>
-    <item widescreen="true" icon="archive" link="../Projects/APSChile/Module/APSMedicalRecords.xml" roles="MedWave,Administration,SysAdmin">Archivos Clínicos</item>
+    <item widescreen="true" icon="archive" link="../Projects/ChileanHealthMinistry/Module/MedicalRecords.xml" roles="MedWave,Administration,SysAdmin">Archivos Clínicos</item>
   </item>
   <item icon="double-angle-right" title="Vacunatorio">
     <item widescreen="true" icon="stethoscope" link="../Projects/APSChile/Module/APSVaccination.xml" roles="MedWave,Nurse,Nurse Supervisor,SysAdmin">Vacunatorio</item>
